@@ -335,6 +335,7 @@ management:
       endpoint: http://localhost:9411/api/v2/spans
 ```
 Step 7: Test using this url: http://localhost:8085/fromsecondcontroller
+
 ######################################################
 
 
