@@ -465,7 +465,7 @@ Spring Cloud Config Server is a central configuration management server that all
 💡 Key Features:
 ----------------------------------------
 | Feature           | Description                      |                        
-|-------------------------------|---------------------------------------|-------------------------------------|
+|-------------------------------|---------------------------------------|
 | Centralized config       |  All services fetch config from one place |
 
 
